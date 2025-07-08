@@ -1,0 +1,8 @@
+GameProject {
+ ID "HeavySupportWeapons"
+ GUID "65D0C389D72699E0"
+ TITLE "Heavy Support Weapons"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
